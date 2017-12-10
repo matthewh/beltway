@@ -38,7 +38,7 @@ setup(
     name='beltway',
     version=version,
     author='Unspecified',
-    url='https://www.github.com/matthewh/beltway',
+    url='https://github.com/matthewh/beltway',
     license='MIT',
     description='Threaded WAMP client',
     long_description=long_description,
