@@ -1,0 +1,8 @@
+six
+structlog
+ws4py
+
+## py2x requirements
+# enum34
+# futures
+# singledispatch
